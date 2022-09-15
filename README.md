@@ -68,7 +68,7 @@ As questões podem ser encontradas na pasta [slides](./slides/)
 
 |   |Arquivo    |Slide  |Função |
 |-  |-          |-      |-      |
-|   |[hello](./slides/hello.asm)|Aula 13 - Slide 23|Imprime Hello World|
+|X  |[hello](./slides/hello.asm)|Aula 13 - Slide 23|Imprime Hello World|
 |   |[kangaroo](./slides/kangaroo.asm)|Aula 13 - Slide 24|Imprime KANGAROO e depois imprime kangaroo|
 |   |[welcome](./slides/welcome.asm)|Aula 13 - Slide 25,26|Recebe nome e número n, imprime apresentação e n vezes a mensagem de boas-vindas|
 |   |[struct](./slides/struct.asm)|Aula 14 - Slide 26,27,28,29|Usa estrutura de dados|
