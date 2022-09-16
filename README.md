@@ -68,11 +68,11 @@ As questões podem ser encontradas na pasta [slides](./slides/)
 
 |   |Arquivo    |Slide  |Função |
 |-  |-          |-      |-      |
-|X  |[hello](./slides/hello.asm)|Aula 13 - Slide 23|Imprime Hello World|
-|   |[kangaroo](./slides/kangaroo.asm)|Aula 13 - Slide 24|Imprime KANGAROO e depois imprime kangaroo|
+|X  |[hello](./slides/1-hello.asm)|Aula 13 - Slide 23|Imprime Hello World|
+|X  |[kangaroo](./slides/2-kangaroo.asm)|Aula 13 - Slide 24|Imprime KANGAROO e depois imprime kangaroo|
 |   |[welcome](./slides/welcome.asm)|Aula 13 - Slide 25,26|Recebe nome e número n, imprime apresentação e n vezes a mensagem de boas-vindas|
 |   |[struct](./slides/struct.asm)|Aula 14 - Slide 26,27,28,29|Usa estrutura de dados|
-|   |[matrix](./slides/matrix.asm)|Aula 14 - Slide 35|Faz soma de duas matrizes|
+|   |[matrix](./slides/5-matrix.asm)|Aula 14 - Slide 35|Faz soma de duas matrizes|
 |   |[iomac](./slides/iomac.asm)|Aula 15 - Slide 12|Execução básica com io.mac|
 |   |[soma64bits](./slides/soma64bits.asm)|Aula 15 - Slide 42|Soma de 64 bits com registradores dde 32|
 |   |[condicional_aninhado](./slides/condicional_aninhado.asm)|Aula 16 - Slide 14|Recebe número em binário e retorna número por escrito|
@@ -82,5 +82,5 @@ As questões podem ser encontradas na pasta [slides](./slides/)
 |   |[break](./slides/break.asm)|Aula 16 - Slide 22|Exemplo com break|
 |   |[continue](./slides/continue.asm)|Aula 16 - Slide 23|Exemplo com continue|
 |   |[soma_funcao](./slides/soma_funcao.asm)|Aula 17 - Slide 4|Exemplo com chamada de procedimento|
-|   |[soma_funcao_pilha](./slides/soma_funcao_pilha.asm)|Aula 17 - Slide 18,19,20|Exemplo com procedimento passando parâmetros pela pilha|
-|   |[fibonacci_pilha](./slides/fibonacci_pilha.asm)|Aula 17 - Slide 29|Exemplo com fibonacci usando funções e pilhas|
+|X  |[soma_funcao_pilha](./slides/15-soma_funcao_pilha.asm)|Aula 17 - Slide 18,19,20|Exemplo com procedimento passando parâmetros pela pilha|
+|X  |[fibonacci_pilha](./slides/16-fibonacci_pilha.asm)|Aula 17 - Slide 29|Exemplo com fibonacci usando funções e pilhas|
